@@ -65,7 +65,7 @@ CREATE TABLE bronze.customers_data (
 
 
 -- Merchants Table
-CREATE TABLE bronze.merchants_data (
+CREATE TABLE bronze.merchant_data (
     Merchant_ID          VARCHAR(20),
     Merchant_Name        VARCHAR(50),
     Merchant_Category    VARCHAR(20),
