@@ -56,8 +56,7 @@ SELECT
     Merchant_Name,
     Merchant_Rating,
     Merchant_Status,
-    Merchant_Since,
-    dwh_create_date
+    Merchant_Since
 FROM silver.merchant_table;
 
 -- ============================================
